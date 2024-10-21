@@ -3,9 +3,9 @@
  1. Phân Tán về mặt vị trí các Server 
  2. Phân tán về mặt dữ liệu
  3. Phân Quyền về mặt chức năng 
- 4 . Sử dụng được Giao Tác Phân Tán
+ 4. Sử dụng được Giao Tác Phân Tán
  5. Sử dụng được Stored Procedures đã cài sẵn ở SQL
- 6 .Hiển thị được các trigger tương ứng đã cài ở SQL 
+ 6. Hiển thị được các trigger tương ứng đã cài ở SQL 
 ## Demo
 ## Trang đăng nhập chung với tất cả Server.
 ![image](https://github.com/user-attachments/assets/4349c096-2d5e-4184-a8bf-2a085bf4a851)
